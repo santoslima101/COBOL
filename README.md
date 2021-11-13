@@ -1,2 +1,2 @@
 # COBOL
-L
+Alguns códigos feito em COBOL
